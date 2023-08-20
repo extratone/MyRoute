@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="inRoute-v8.2.3">
+	<wpt lat="38.963776" lon="-92.257057">
+		<name>1305 Valley Creek Ln</name>
+		<src>1305 Valley Creek Ln, Columbia MO 65202, United States</src>
+	</wpt>
+	<wpt lat="38.898863" lon="-93.169982">
+		<name><![CDATA[27400–27598 SSR-BB
+Marshall MO 65340
+United States]]></name>
+		<src><![CDATA[27400–27598 SSR-BB, Marshall MO 65340, United States]]></src>
+		<sat>1</sat>
+	</wpt>
+	<wpt lat="38.858314" lon="-93.179495">
+		<name><![CDATA[14544–14698 SSR-J
+Hughesville MO 65334
+United States]]></name>
+		<src><![CDATA[14544–14698 SSR-J, Hughesville MO 65334, United States]]></src>
+		<sat>1</sat>
+	</wpt>
+	<wpt lat="38.693768" lon="-93.255311">
+		<name>Missouri State Fairgrounds</name>
+		<cmt>+1 (800) 422-3247</cmt>
+		<src>2503 W 16th St, Sedalia MO 65301, United States</src>
+		<link href="http://www.mostatefair.com">
+		</link>
+		<sym>Pink</sym>
+	</wpt>
+	<rte>
+		<name><![CDATA[Rte-Alexis' ⇨ Missouri State Fairgrounds (Less]]></name>
+		<desc>8/20/23, 2:11 PM</desc>
+		<link href="">
+			<text>America/Chicago</text>
+		</link>
+		<number>0</number>
+		<type>0</type>
+		<rtept lat="38.963776" lon="-92.257057">
+			<name>1305 Valley Creek Ln</name>
+			<src>1305 Valley Creek Ln, Columbia MO 65202, United States</src>
+			<fix>none</fix>
+		</rtept>
+		<rtept lat="38.898863" lon="-93.169982">
+			<name><![CDATA[27400–27598 SSR-BB
+Marshall MO 65340
+United States]]></name>
+			<src><![CDATA[27400–27598 SSR-BB, Marshall MO 65340, United States]]></src>
+			<type>YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QVGRhdGFWJGNsYXNzgAKAA08RBLYKswkQACLYAQgBEAAgwNECMAFCJgokCDlSHQoFZW4tVVMaFDI3NDAw4oCTMjc1OTggU1NSLUJCmAEDSgVhcHBsZUoGcmV2Z2VvSgJVU1AKWowBEokBcGxhY2VSZXF1ZXN0PUNoY0tGV052YlM1RFlYSnZZa0Z3Y0hNdWFXNVNiM1YwWlRnRVFrQWlQaGdCSWpvS0VnbHR6MUh5RFhORFFCR04yeUw3NEVwWHdCbTBIQ2lWTWtuRlFTQUFLUUFBQUFBQUFBQUFNUUFBQUFBQUFQQy9RUUFBQUFBQUFQQy9gAiJ1CAQQACDA0QIwAUJSIlAKJilNhrZD/3JDQDG+mLIJ60pXwDlz6FOzHHNDQEEOHFkg2EpXwFAEEiYpoUxyzXpyQ0Ax2EnFI0BLV8A5HyKYKaFzQ0BB9GpGBoNKV8BQBEoFYXBwbGVKBnJldmdlb0oCVVNQCmACIv0FCB8QACDA0QIwAULZBfoB1QUK0gUIAhIKMTEuMS44LWRldhoNCgVlbi1VUxICVVMaACIqCg5yZXZnZW8tMjMuMzMuOBDUtpHODBoGY3JlYXRlIgoxMS4xLjgtZGV2qgaFBQoUMjc0MDDigJMyNzU5OCBTU1ItQkISqgFaFDI3NDAw4oCTMjc1OTggU1NSLUJCWhNNYXJzaGFsbCwgTU8gIDY1MzQwWg1Vbml0ZWQgU3RhdGVzem4KDVVuaXRlZCBTdGF0ZXMSAlVTGghNaXNzb3VyaSICTU8qDVBldHRpcyBDb3VudHkyCE1hcnNoYWxsOgU2NTM0MFIGU1NSLUJCWg0yNzQwMOKAkzI3NTk4YhQyNzQwMOKAkzI3NTk4IFNTUi1CQiJfG1x0bj1hZGRyZXNzXCAyNzQwMOKAkzI3NTk4IBtcdG49bm9ybWFsXCAbXHRvaT1saHBcICdzXi5wbCQuJzJtRW4udCRsXydSK3V0XydiaV8nYmkgG1x0b2k9b3J0aFwqjgIKDVVuaXRlZCBTdGF0ZXMSDVVuaXRlZCBTdGF0ZXMaCE1pc3NvdXJpIghNaXNzb3VyaSoNUGV0dGlzIENvdW50eTIITWFyc2hhbGxSNhtcdG9pPWxocFwgJ3NeLnBsJC4nMm1Fbi50JGxfJ1IrdXRfJ2JpXydiaSAbXHRvaT1vcnRoXFooG1x0bj1hZGRyZXNzXCAyNzQwMOKAkzI3NTk4IBtcdG49bm9ybWFsXGJfG1x0bj1hZGRyZXNzXCAyNzQwMOKAkzI3NTk4IBtcdG49bm9ybWFsXCAbXHRvaT1saHBcICdzXi5wbCQuJzJtRW4udCRsXydSK3V0XydiaV8nYmkgG1x0b2k9b3J0aFw6I3ohUh8nc14ucGwkLicybUVuLnQkbF8nUit1dF8nYmlfJ2JpogYoEgZTU1ItQkIqHjI3NDAw4oCTMjc1OTggU1NSLUJCLCBNYXJzaGFsbEoFYXBwbGVKBnJldmdlb0oCVVNQCmACIlcIAhAAIMDRAjABQjQSMgoSCW3PUfINc0NAEY3bIvvgSlfAIhEKD0FtZXJpY2EvQ2hpY2FnbzACOgcKBTI5MTU5SgVhcHBsZUoGcmV2Z2VvSgJVU1AKYAIowjvADAHSExQVFlokY2xhc3NuYW1lWCRjbGFzc2VzWU1LTWFwSXRlbaIVF1hOU09iamVjdAAIABEAGgAkACkAMgA3AEkATABRAFMAWABeAGMAaABvAHEAcwUtBTIFPQVGBVAFUwAAAAAAAAIBAAAAAAAAABgAAAAAAAAAAAAAAAAAAAVc</type>
+			<fix>none</fix>
+			<sat>1</sat>
+		</rtept>
+		<rtept lat="38.858314" lon="-93.179495">
+			<name><![CDATA[14544–14698 SSR-J
+Hughesville MO 65334
+United States]]></name>
+			<src><![CDATA[14544–14698 SSR-J, Hughesville MO 65334, United States]]></src>
+			<type>YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QVGRhdGFWJGNsYXNzgAKAA08RBLsKuAkQACLXAQgBEAAgwNECMAFCJQojCDlSHAoFZW4tVVMaEzE0NTQ04oCTMTQ2OTggU1NSLUqYAQNKBWFwcGxlSgZyZXZnZW9KAlVTUApajAESiQFwbGFjZVJlcXVlc3Q9Q2hjS0ZXTnZiUzVEWVhKdllrRndjSE11YVc1U2IzVjBaVGdFUWtBaVBoZ0JJam9LRWdseFdyNDkzVzFEUUJFdkpzVFhmRXRYd0JtdE5OdWdNa25GUVNBQUtRQUFBQUFBQUFBQU1RQUFBQUFBQVBDL1FRQUFBQUFBQVBDL2ACInUIBBAAIMDRAjABQlIiUAomKSGWffnObUNAMWuOKE2GS1fAOUf4GmnsbUNAQavbkWZzS1fAUAQSJil1XDmDSm1DQDHLss5a20tXwDnzMV/fcG5DQEFLt+tYHktXwFAESgVhcHBsZUoGcmV2Z2VvSgJVU1AKYAIigwYIHxAAIMDRAjABQt8F+gHbBQrYBQgCEgoxMS4xLjgtZGV2Gg0KBWVuLVVTEgJVUxoAIioKDnJldmdlby0yMy4zMy44EIK3kc4MGgZjcmVhdGUiCjExLjEuOC1kZXaqBosFChMxNDU0NOKAkzE0Njk4IFNTUi1KEq0BWhMxNDU0NOKAkzE0Njk4IFNTUi1KWhZIdWdoZXN2aWxsZSwgTU8gIDY1MzM0Wg1Vbml0ZWQgU3RhdGVzem8KDVVuaXRlZCBTdGF0ZXMSAlVTGghNaXNzb3VyaSICTU8qDVBldHRpcyBDb3VudHkyC0h1Z2hlc3ZpbGxlOgU2NTMzNFIFU1NSLUpaDTE0NTQ04oCTMTQ2OThiEzE0NTQ04oCTMTQ2OTggU1NSLUoiXxtcdG49YWRkcmVzc1wgMTQ1NDTigJMxNDY5OCAbXHRuPW5vcm1hbFwgG1x0b2k9bGhwXCAnc14ucGwkLicybUVuLnQkbF8nUit1dF8nZCZaZSZJIBtcdG9pPW9ydGhcKpECCg1Vbml0ZWQgU3RhdGVzEg1Vbml0ZWQgU3RhdGVzGghNaXNzb3VyaSIITWlzc291cmkqDVBldHRpcyBDb3VudHkyC0h1Z2hlc3ZpbGxlUjYbXHRvaT1saHBcICdzXi5wbCQuJzJtRW4udCRsXydSK3V0XydkJlplJkkgG1x0b2k9b3J0aFxaKBtcdG49YWRkcmVzc1wgMTQ1NDTigJMxNDY5OCAbXHRuPW5vcm1hbFxiXxtcdG49YWRkcmVzc1wgMTQ1NDTigJMxNDY5OCAbXHRuPW5vcm1hbFwgG1x0b2k9bGhwXCAnc14ucGwkLicybUVuLnQkbF8nUit1dF8nZCZaZSZJIBtcdG9pPW9ydGhcOiN6IVIfJ3NeLnBsJC4nMm1Fbi50JGxfJ1IrdXRfJ2QmWmUmSaIGKRIFU1NSLUoqIDE0NTQ04oCTMTQ2OTggU1NSLUosIEh1Z2hlc3ZpbGxlSgVhcHBsZUoGcmV2Z2VvSgJVU1AKYAIiVwgCEAAgwNECMAFCNBIyChIJcVq+Pd1tQ0ARLybE13xLV8AiEQoPQW1lcmljYS9DaGljYWdvMAI6BwoFMjkxNTlKBWFwcGxlSgZyZXZnZW9KAlVTUApgAijCO8AMAdITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNZTUtNYXBJdGVtohUXWE5TT2JqZWN0AAgAEQAaACQAKQAyADcASQBMAFEAUwBYAF4AYwBoAG8AcQBzBTIFNwVCBUsFVQVYAAAAAAAAAgEAAAAAAAAAGAAAAAAAAAAAAAAAAAAABWE=</type>
+			<fix>2d</fix>
+			<sat>1</sat>
+		</rtept>
+		<rtept lat="38.693768" lon="-93.255311">
+			<name>Missouri State Fairgrounds</name>
+			<cmt>+1 (800) 422-3247</cmt>
+			<src>2503 W 16th St, Sedalia MO 65301, United States</src>
+			<link href="http://www.mostatefair.com">
+			</link>
+			<sym>Pink</sym>
+			<type>YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QVGRhdGFWJGNsYXNzgAKAA08RCLIKrxEIzrvFxamSr9WsARAAIp4BCA8QACDA0QIwAUJWelQSUhABIiFjcm9zc2J1c2luZXNzLnBheW1lbnRzLmNyZWRpdGNhcmQqGgoCZW4aFEFjY2VwdHMgQ3JlZGl0IENhcmRzMg9jcmVkaXRjYXJkLmZpbGxaOAiuTRIkMTY3ODU2NDMtZjhlMi00YjZhLTkyYzktNjM2MDg3YWYwZmYyGg0xNjkxMjQ2MDk1MDMwYAIimwQIHxAAIMDRAjABQowE+gGIBAqFBAgBEgYxMS4wLjMaCgoCZW4SABoCZW4iIwoHcGxhY2VzMhCe1J/NDBoKZnJvbUxlZ2FjeSIGMTEuMC4zqgbGAxKyAVoOMjUwMyBXIDE2dGggU3RaElNlZGFsaWEsIE1PICA2NTMwMVoNVW5pdGVkIFN0YXRlc3p9Cg1Vbml0ZWQgU3RhdGVzEgJVUxoITWlzc291cmkiAk1PKg1QZXR0aXMgQ291bnR5MgdTZWRhbGlhOgU2NTMwMVIJVyAxNnRoIFN0WgQyNTAzYg4yNTAzIFcgMTZ0aCBTdHIaTWlzc291cmkgU3RhdGUgRmFpcmdyb3VuZHMiNRtcdG49YWRkcmVzc1wgMjUwMyAbXHRuPW5vcm1hbFwgV2VzdCBTaXh0ZWVudGggU3RyZWV0KtUBCg1Vbml0ZWQgU3RhdGVzEg1Vbml0ZWQgU3RhdGVzGghNaXNzb3VyaSIITWlzc291cmkqDVBldHRpcyBDb3VudHkyB1NlZGFsaWFSFVdlc3QgU2l4dGVlbnRoIFN0cmVldFofG1x0bj1hZGRyZXNzXCAyNTAzIBtcdG49bm9ybWFsXGI1G1x0bj1hZGRyZXNzXCAyNTAzIBtcdG49bm9ybWFsXCBXZXN0IFNpeHRlZW50aCBTdHJlZXRyGk1pc3NvdXJpIFN0YXRlIEZhaXJncm91bmRzOgBgAiKHCAgBEAAgwNECMAE6ZQoNb3JnLndpa2lwZWRpYRIHMjIzOTA5OCJLaHR0cHM6Ly9nc3Atc3NsLmxzLmFwcGxlLmNvbS9hY3Rpb25fdXJsX3JlZGlyZWN0b3Ivb3JnLndpa2lwZWRpYT9pZD0yMjM5MDk4QvACCu0CCC8SDCsxODAwNDIyMzI0NxoMKzE2NjA1MzA1NjA0MhpodHRwOi8vd3d3Lm1vc3RhdGVmYWlyLmNvbVIgCgJlbhoaTWlzc291cmkgU3RhdGUgRmFpcmdyb3VuZHNaIAoCZW4aGk1pc3NvdXJpIFN0YXRlIEZhaXJncm91bmRzYicIARoUCgJlbhoORXZlbnQgU2VydmljZXMiDWV2ZW50c2VydmljZXNiJQgCGhkKAmVuGhNWZW51ZSAmIEV2ZW50IFNwYWNlIgZ2ZW51ZXNiJQgCGhkKAmVuGhNWZW51ZSAmIEV2ZW50IFNwYWNlIgZ2ZW51ZXNiJQhjGhkKAmVuGhNWZW51ZSAmIEV2ZW50IFNwYWNlIgZ2ZW51ZXOIAQGQAQCYAQHKASAKBQgGEJ8DCgUIBBDiAQoECFIQDQoECFkQAgoECFUQDtIBCHNlcnZpY2Vz2gEUZXZlbnRzZXJ2aWNlcy52ZW51ZXPgAQBangQIrk0SiQRwbGFjZVJlcXVlc3Q9Q2hjS0ZXTnZiUzVEWVhKdllrRndjSE11YVc1U2IzVjBaVGdCUXQwQ0N0b0NHa3hOYVhOemIzVnlhU0JUZEdGMFpTQkdZV2x5WjNKdmRXNWtjeUF5TlRBeklGY2dNVFowYUNCVGRDd2dVMlZrWVd4cFlTd2dUVThnSURZMU16QXhMQ0JWYm1sMFpXUWdVM1JoZEdWeklpWUtKQ210YnNiNkJuWkRRREdoc3N1bnRCdFh3RG5FWFhIOXBJZERRRUgzSjZtMzlBNVh3RHJoQVFvMENocE5hWE56YjNWeWFTQlRkR0YwWlNCR1lXbHlaM0p2ZFc1a2N4SUVDQUFRQ0JJRUNBa1FCUklFQ0E4UUJCSUVDQUFRRXhJekNqRXlOVEF6SUZjZ01UWjBhQ0JUZEN3Z1UyVmtZV3hwWVN3Z1RVOGdJRFkxTXpBeExDQlZibWwwWldRZ1UzUmhkR1Z6R0FFcUlnb1NDUUFBQUdETldFTkFFUUFBQUFCWFVGZkFFTTY3eGNXcGtxL1ZyQUVZcmsxaUZRb1RiV2x6YzI5MWNta2djM1JoZEdVZ1ptRnBjb0x4QkJOdGFYTnpiM1Z5YVNCemRHRjBaU0JtWVdseWlQRUVBTnJ4QkJZSkFBQUFBUDdoVmtBUkFBQUFRQXFmbFVBeUFtVnU2dkVFQUE9PRoNMTY5MTI0NjA5NTAzMGACIpUBCAIQACDA0QIwAUIyEjAKEgnFREFnzVhDQBEAAAAFV1BXwCIRCg9BbWVyaWNhL0NoaWNhZ286BwoFMjkxNTlKBWFwcGxlSgZwbGFjZXNKA3BvaUoDQ1NUUAFaOAiuTRIkMTY3ODU2NDMtZjhlMi00YjZhLTkyYzktNjM2MDg3YWYwZmYyGg0xNjkxMjQ2MDk1MDMwYAIimwEIBBAAIMDRAjABQlMiUQokKUVWbe0zWENAMZjuv9/5UFfAOWJ5ocp6WUNAQV8OFqkLUFfAEiQpRVZt7TNYQ0AxmO6/3/lQV8A5YnmhynpZQ0BBXw4WqQtQV8AdAQBgQVo4CK5NEiQxNjc4NTY0My1mOGUyLTRiNmEtOTJjOS02MzYwODdhZjBmZjIaDTE2OTEyNDYwOTUwMzBgAiI+CBAQACDA0QIwAUIwggEtCgUIBBDiAQoFCAYQnwMKBAgKEAAKBAhSEA0KBAhVEAsKBAhZEAIKBQikARABYAIork06WwolCM67xcWpkq/VrAESEgnFREFnzVhDQBEAAAAFV1BXwBiuTZADAaIfMQjOu8XFqZKv1awBGiQKGk1pc3NvdXJpIFN0YXRlIEZhaXJncm91bmRzEAAqAmVuQADADAHSExQVFlokY2xhc3NuYW1lWCRjbGFzc2VzWU1LTWFwSXRlbaIVF1hOU09iamVjdAAIABEAGgAkACkAMgA3AEkATABRAFMAWABeAGMAaABvAHEAcwkpCS4JOQlCCUwJTwAAAAAAAAIBAAAAAAAAABgAAAAAAAAAAAAAAAAAAAlY</type>
+		</rtept>
+	</rte>
+	<trk>
+		<name><![CDATA[Trk-Alexis' ⇨ Missouri State Fairgrounds (Less]]></name>
+		<trkseg>
+			<trkpt lat="38.963769" lon="-92.256773">
+			</trkpt>
+			<trkpt lat="38.963175" lon="-92.256797">
+			</trkpt>
+			<trkpt lat="38.963168" lon="-92.252035">
+			</trkpt>
+			<trkpt lat="38.962879" lon="-92.251323">
+			</trkpt>
+			<trkpt lat="38.960626" lon="-92.252929">
+			</trkpt>
+			<trkpt lat="38.960374" lon="-92.257065">
+			</trkpt>
+			<trkpt lat="38.961977" lon="-92.293515">
+			</trkpt>
+			<trkpt lat="38.962606" lon="-92.296023">
+			</trkpt>
+			<trkpt lat="38.964494" lon="-92.300020">
+			</trkpt>
+			<trkpt lat="38.967019" lon="-92.307469">
+			</trkpt>
+			<trkpt lat="38.967895" lon="-92.311281">
+			</trkpt>
+			<trkpt lat="38.968256" lon="-92.314550">
+			</trkpt>
+			<trkpt lat="38.969413" lon="-92.340309">
+			</trkpt>
+			<trkpt lat="38.969334" lon="-92.342842">
+			</trkpt>
+			<trkpt lat="38.968946" lon="-92.345435">
+			</trkpt>
+			<trkpt lat="38.968249" lon="-92.347922">
+			</trkpt>
+			<trkpt lat="38.964995" lon="-92.355087">
+			</trkpt>
+			<trkpt lat="38.964535" lon="-92.358816">
+			</trkpt>
+			<trkpt lat="38.965053" lon="-92.362060">
+			</trkpt>
+			<trkpt lat="38.968159" lon="-92.370627">
+			</trkpt>
+			<trkpt lat="38.968641" lon="-92.372664">
+			</trkpt>
+			<trkpt lat="38.969808" lon="-92.383945">
+			</trkpt>
+			<trkpt lat="38.970893" lon="-92.400737">
+			</trkpt>
+			<trkpt lat="38.974129" lon="-92.513869">
+			</trkpt>
+			<trkpt lat="38.973730" lon="-92.517923">
+			</trkpt>
+			<trkpt lat="38.973061" lon="-92.521195">
+			</trkpt>
+			<trkpt lat="38.971908" lon="-92.524867">
+			</trkpt>
+			<trkpt lat="38.970447" lon="-92.528146">
+			</trkpt>
+			<trkpt lat="38.962014" lon="-92.541966">
+			</trkpt>
+			<trkpt lat="38.941676" lon="-92.573439">
+			</trkpt>
+			<trkpt lat="38.940670" lon="-92.575731">
+			</trkpt>
+			<trkpt lat="38.940213" lon="-92.577916">
+			</trkpt>
+			<trkpt lat="38.935306" lon="-92.798950">
+			</trkpt>
+			<trkpt lat="38.935199" lon="-92.886842">
+			</trkpt>
+			<trkpt lat="38.933433" lon="-92.972868">
+			</trkpt>
+			<trkpt lat="38.933894" lon="-92.975664">
+			</trkpt>
+			<trkpt lat="38.934820" lon="-92.977911">
+			</trkpt>
+			<trkpt lat="38.945124" lon="-92.991402">
+			</trkpt>
+			<trkpt lat="38.946281" lon="-92.993645">
+			</trkpt>
+			<trkpt lat="38.946888" lon="-92.995912">
+			</trkpt>
+			<trkpt lat="38.952966" lon="-93.085187">
+			</trkpt>
+			<trkpt lat="38.953635" lon="-93.087985">
+			</trkpt>
+			<trkpt lat="38.947841" lon="-93.092003">
+			</trkpt>
+			<trkpt lat="38.941154" lon="-93.093955">
+			</trkpt>
+			<trkpt lat="38.935137" lon="-93.094212">
+			</trkpt>
+			<trkpt lat="38.933925" lon="-93.094647">
+			</trkpt>
+			<trkpt lat="38.933110" lon="-93.095334">
+			</trkpt>
+			<trkpt lat="38.931652" lon="-93.098617">
+			</trkpt>
+			<trkpt lat="38.931303" lon="-93.100439">
+			</trkpt>
+			<trkpt lat="38.931508" lon="-93.107716">
+			</trkpt>
+			<trkpt lat="38.931312" lon="-93.118362">
+			</trkpt>
+			<trkpt lat="38.930200" lon="-93.120326">
+			</trkpt>
+			<trkpt lat="38.924385" lon="-93.125353">
+			</trkpt>
+			<trkpt lat="38.922892" lon="-93.126101">
+			</trkpt>
+			<trkpt lat="38.921755" lon="-93.126251">
+			</trkpt>
+			<trkpt lat="38.898505" lon="-93.127068">
+			</trkpt>
+			<trkpt lat="38.898999" lon="-93.151912">
+			</trkpt>
+			<trkpt lat="38.899850" lon="-93.154501">
+			</trkpt>
+			<trkpt lat="38.901554" lon="-93.158331">
+			</trkpt>
+			<trkpt lat="38.900945" lon="-93.161779">
+			</trkpt>
+			<trkpt lat="38.899242" lon="-93.165107">
+			</trkpt>
+			<trkpt lat="38.899374" lon="-93.170003">
+			</trkpt>
+			<trkpt lat="38.898524" lon="-93.170072">
+			</trkpt>
+			<trkpt lat="38.897803" lon="-93.168747">
+			</trkpt>
+			<trkpt lat="38.895681" lon="-93.168744">
+			</trkpt>
+			<trkpt lat="38.895558" lon="-93.165733">
+			</trkpt>
+			<trkpt lat="38.895157" lon="-93.165217">
+			</trkpt>
+			<trkpt lat="38.884769" lon="-93.165494">
+			</trkpt>
+			<trkpt lat="38.884495" lon="-93.165977">
+			</trkpt>
+			<trkpt lat="38.884222" lon="-93.169830">
+			</trkpt>
+			<trkpt lat="38.883977" lon="-93.170068">
+			</trkpt>
+			<trkpt lat="38.858628" lon="-93.170592">
+			</trkpt>
+			<trkpt lat="38.858161" lon="-93.184488">
+			</trkpt>
+			<trkpt lat="38.840035" lon="-93.184964">
+			</trkpt>
+			<trkpt lat="38.840411" lon="-93.218234">
+			</trkpt>
+			<trkpt lat="38.829988" lon="-93.218814">
+			</trkpt>
+			<trkpt lat="38.812286" lon="-93.225675">
+			</trkpt>
+			<trkpt lat="38.810582" lon="-93.226043">
+			</trkpt>
+			<trkpt lat="38.774110" lon="-93.225251">
+			</trkpt>
+			<trkpt lat="38.731105" lon="-93.226851">
+			</trkpt>
+			<trkpt lat="38.729284" lon="-93.227663">
+			</trkpt>
+			<trkpt lat="38.727614" lon="-93.229571">
+			</trkpt>
+			<trkpt lat="38.727079" lon="-93.230700">
+			</trkpt>
+			<trkpt lat="38.722445" lon="-93.245533">
+			</trkpt>
+			<trkpt lat="38.721412" lon="-93.247420">
+			</trkpt>
+			<trkpt lat="38.719516" lon="-93.249162">
+			</trkpt>
+			<trkpt lat="38.717300" lon="-93.249903">
+			</trkpt>
+			<trkpt lat="38.690973" lon="-93.250966">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
+
